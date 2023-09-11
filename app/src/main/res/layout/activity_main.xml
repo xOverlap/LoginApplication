@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <View
+    <ImageView
         android:id="@+id/View"
         android:layout_width="250dp"
         android:layout_height="250dp"
@@ -16,7 +16,12 @@
         app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.062" />
+        app:layout_constraintVertical_bias="0.062"
+        app:srcCompat="@drawable/ninja"
+        android:padding="10dp"
+android:contentDescription="@string/todo"
+        android:scaleType="centerCrop"
+        />
 
     <EditText
         android:id="@+id/TxtUser"
