@@ -6,14 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".Pantalla4">
 
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:contentDescription="@string/todo"
-        android:scaleType="centerCrop"
-        app:srcCompat="@drawable/rene" />
-
   <Button
       android:id="@+id/logout_button"
       android:layout_width="wrap_content"
