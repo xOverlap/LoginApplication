@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LoginApplication</string>
+    <string name="ingrese_un_usuario">Ingrese un usuario</string>
+    <string name="ingrese_su_contrase_a">Ingrese su contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="cerrar_sesi_n">Cerrar Sesión</string>
+    <string name="pantalla2">Pantalla2</string>
+    <string name="pantalla3">Pantalla3</string>
+    <string name="pantalla4">Pantalla4</string>
+    <string name="pantalla1">Pantalla1</string>
+    <string name="pantalla33">Pantalla3</string>
+    <string name="pantalla44">Pantalla4</string>
+    <string name="pantalla11">Pantalla1</string>
+    <string name="pantalla22">Pantalla2</string>
+    <string name="pantalla444">Pantalla4</string>
+    <string name="pantalla111">Pantalla1</string>
+    <string name="pantalla2222">Pantalla2</string>
+    <string name="pantalla3333">Pantalla3</string>
+</resources>
